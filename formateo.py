@@ -8,7 +8,7 @@ if len(argv) == 4:
     #print(f'Nombre: {nombre} \nEdad: {edad} \nAltura: {altura}')
     #print('Nombre: {} \nEdad: {} \nAltura: {}'.format(nombre, edad, altura))
     #print('Nombre: {n} \nEdad: {e} \nAltura: {a}'.format(a = altura, n = nombre, e = edad))
-    print('Nombre: %s \nEdad: %i \nAltura: %f'%(nombre, edad, altura))
+    #Esta es una forma antigua ** print('Nombre: %s \nEdad: %i \nAltura: %f'%(nombre, edad, altura)) **
 
 
 else:
